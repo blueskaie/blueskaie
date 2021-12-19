@@ -2,11 +2,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=blueskaie.blueskaie&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+● Senior full stack developer with more than 9+ years of experience in technical project development 
+and management. Special emphasis in advanced integration of new technologies into existing 
+frameworks and products with emphasis in improving functionality and user experience.
+● Senior mobile developer with more than 5+ years of experience in developing the hybrids apps by 
+using react native, ionic, and flex, etc.
+● Certified Block chain Developer with good experience in developing the Decentralized Block chain 
+applications.
+● Strong client relation skills, team organization, and project conceptualization and realization
 
 Joined Github **3** years ago.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/blueskaie/blueskaie/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I have a lot of good experiences with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
@@ -32,10 +40,6 @@ Joined Github **3** years ago.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Projects and Dev Stuffs:
 
